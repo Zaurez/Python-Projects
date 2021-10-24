@@ -5,7 +5,7 @@ word_list = ['love', 'game', 'hello', 'computer', 'yes', 'fox']
 
 #selecting a word on random
 selected_word = random.choice(word_list)
-print(selected_word)
+# print(selected_word)
 
 #input from user
 # user_choice = input("Enter an alphabet: ")
